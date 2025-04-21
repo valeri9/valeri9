@@ -1,7 +1,18 @@
-## Hi there 👋
+<h1>Hi, I'm Valeri! I am a Game Developer currently studying in high school in Pleven, Bulgaria!
+
+<h2>👨‍💻 Game Projects:</h2>
+
+
+  - [Unreal Engine 5 Driving Simulator Game](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Unity Driving Simulator Game](https://github.com/joshmadakor1/Algorithms-Practice)
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[instagram]: https://www.instagram.com/valeri-dimitrov16/
 
 <!--
-**valeri9/valeri9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
