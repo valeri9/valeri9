@@ -1,4 +1,4 @@
-Hello! I'm Valeri Dimitrov, a passionate game developer and video editor from Pleven, currently studying at MG Geio Milev Pleven.
+Hello! I'm Valeri Dimitrov, a passionate game developer and video editor from Pleven, currently studying at MG "Geo Milev" Pleven. My main focus there is IT, along with other related subjects.
 
 ## About Me
 
@@ -7,13 +7,12 @@ I am deeply passionate about creating video games, and I enjoy working on both s
 ## Skills
 
 - **Game Development**: Passionate about creating and developing video games.
-- **Video Editing**: Experience with editing videos for TikTok and YouTube, including basic editing tasks.
-- **Microsoft Office**: Proficient in Microsoft Access, Word, Excel, and other Office tools.
+- **Video Editing**: Experience editing videos for TikTok and YouTube, including basic editing tasks.
+- **Microsoft Office**: Upper-Intermediate in Microsoft Access, Word, Excel, and other Office tools.
 
 ---
 
 <h2>👨‍💻 Game Projects:</h2>
-
 
   - [Unreal Engine 5 Driving Simulator Game](https://github.com/valeri9/Mission-Safety)
   - [Unity Driving Simulator Game](https://github.com/joshmadakor1/Algorithms-Practice)
