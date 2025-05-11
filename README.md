@@ -1,5 +1,3 @@
-# Valeri Dimitrov - Game Developer & Video Editor
-
 Hello! I'm Valeri Dimitrov, a passionate game developer and video editor from Pleven, currently studying at MG Geio Milev Pleven.
 
 ## About Me
