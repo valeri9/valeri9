@@ -1,4 +1,18 @@
-<h1>Hi, I'm Valeri! I am a Game Developer currently studying in high school in Pleven, Bulgaria!
+# Valeri Dimitrov - Game Developer & Video Editor
+
+Hello! I'm Valeri Dimitrov, a passionate game developer and video editor from Pleven, currently studying at MG Geio Milev Pleven.
+
+## About Me
+
+I am deeply passionate about creating video games, and I enjoy working on both small and large projects. In addition to game development, I also have experience editing videos for platforms like TikTok and YouTube. I am skilled in creating engaging and dynamic content that suits the needs of different audiences.
+
+## Skills
+
+- **Game Development**: Passionate about creating and developing video games.
+- **Video Editing**: Experience with editing videos for TikTok and YouTube, including basic editing tasks.
+- **Microsoft Office**: Proficient in Microsoft Access, Word, Excel, and other Office tools.
+
+---
 
 <h2>👨‍💻 Game Projects:</h2>
 
